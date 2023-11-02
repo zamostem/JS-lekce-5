@@ -1,0 +1,20 @@
+/* h1 {
+    color: red;
+    background-color: yellow;
+    font-size: 25px;
+}
+*/
+
+/* třída class v html*/
+.modra {
+    color: blue;
+}
+
+.vetsi-font {
+    font-size: 50px;
+}
+
+/* id v html - funguje jako třída, ale je možné použít jen jednou */
+#zelena {
+    color: green;
+}
